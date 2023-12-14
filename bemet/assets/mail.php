@@ -40,7 +40,7 @@
 
         // FIXME: Update this to your desired email address.
 
-        $recipient = "founder@stthemes.com";
+        $recipient = "mr.epicfiend@gmail.com";
 
 
 
@@ -52,7 +52,7 @@
 
         //Email Header
 
-        $head = " /// THEMEGENIX \\\ ";
+        $head = " /// FROM YOUR WEBSITE \\\ ";
 
 
 
