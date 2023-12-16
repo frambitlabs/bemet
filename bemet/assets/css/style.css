@@ -1480,7 +1480,7 @@ body.search-visible {
     padding-right: 140px;
 }
 .breadcrumb-content::before {
-    content: "\f10e";
+    content: "";
     position: absolute;
     right: 0;
     top: 50%;
